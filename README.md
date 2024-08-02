@@ -37,7 +37,7 @@ Minute-mate는 사용자가 외부에서 실내로 들어올 시, 1 Minute 동�
 스마트 밴드는 **ESP-Wroom-32**를 통해 제작되었습니다. (다이어그램은 이해를 위한 것일 뿐 실제 제작된 작품과 차이가 있음)
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="/images/band.png" alt="band" style="max-width: 100%;">
+    <img src="/images/band.png" alt="band" style="max-width: 50%;">
   </div>
   <div style="flex: 2; padding-left: 20px;">
 사용된 센서는 아래와 같습니다. 
