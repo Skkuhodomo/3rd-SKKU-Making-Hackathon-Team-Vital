@@ -18,7 +18,7 @@ Minute-mate는 사용자가 외부에서 실내로 들어올 시, 1 Minute 동�
 </details>
 
 <details>
-    <summary>개발의 타당성</summary>
+    <summary>개발 기술적 근거</summary>
     
 1. 생체 데이터의 분석
 생체 데이터는 사용자의 신체적 상태를 실시간으로 파악할 수 있는 중요한 정보를 제공합니다. 우선 체온은 밖에서의 사용자가 받은 스트레스를 파악할 수 있게 합니다. 스트레스 상태에서는 체온이 낮아지는 경향이 있다고 합니다.[[1]](https://journals.biologists.com/jeb/article/226/20/jeb246552/334301/It-s-cool-to-be-stressed-body-surface-temperatures)
