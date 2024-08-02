@@ -35,7 +35,7 @@ Minute-mate는 사용자가 외부에서 실내로 들어올 시, 1 Minute 동�
 메이킹 해커톤이므로 전자보드를 직접 제작하였습니다.
 ### Smart Band
 스마트 밴드는 **ESP-Wroom-32**를 통해 제작되었습니다. (다이어그램은 이해를 위한 것일 뿐 실제 제작된 작품과 차이가 있음)
-|<img src="/images/band.png" alt="band" height="50%" width="50%">|<p style="text-align=left; color: white;">1. Heart Rate Sensor[SEN00203] : 심장 박동 수를 측정하기 위한 센서 </br> 2. DHT11 : 온도/습도를 측정하기 위한 센서 </br> 3. MPU-6050 : 사용자 움직임 측정을 위한 자이로센서 </p>|
+|![img](/images/band.png)|<p style="text-align=left; color: white;">1. Heart Rate Sensor[SEN00203] : 심장 박동 수를 측정하기 위한 센서 </br> 2. DHT11 : 온도/습도를 측정하기 위한 센서 </br> 3. MPU-6050 : 사용자 움직임 측정을 위한 자이로센서 </p>|
 |--|--|
 
 ### Smart Speaker 
