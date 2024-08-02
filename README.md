@@ -35,17 +35,8 @@ Minute-mate는 사용자가 외부에서 실내로 들어올 시, 1 Minute 동�
 메이킹 해커톤이므로 전자보드를 직접 제작하였습니다.
 ### Smart Band
 스마트 밴드는 **ESP-Wroom-32**를 통해 제작되었습니다. (다이어그램은 이해를 위한 것일 뿐 실제 제작된 작품과 차이가 있음)
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img src="/images/band.png" alt="band" style="max-width: 50%;">
-  </div>
-  <div style="flex: 2; padding-left: 20px;">
-사용된 센서는 아래와 같습니다. 
-</br> 1. Heart Rate Sensor[SEN00203] : 심장 박동 수를 측정하기 위한 센서 
-</br> 2. DHT11 : 온도/습도를 측정하기 위한 센서 
-</br> 3. MPU-6050 : 사용자 움직임 측정을 위한 자이로센서 
-  </div>
-</div>
+|<img src="/images/band.png" alt="band" height="50%" width="50%">|<p style="text-align=left; color: white;">1. Heart Rate Sensor[SEN00203] : 심장 박동 수를 측정하기 위한 센서 </br> 2. DHT11 : 온도/습도를 측정하기 위한 센서 </br> 3. MPU-6050 : 사용자 움직임 측정을 위한 자이로센서 </p>|
+|--|--|
 
 ### Smart Speaker 
 스마트 스피커는 **Raspberry pi 4** 를 통해 제작되었습니다. 스마트 스피커는 생성형 AI API 제어를 위한 역할이 크므로 상세한 설명은 아래의 소프트웨어 부분으로 대체합니다. 
